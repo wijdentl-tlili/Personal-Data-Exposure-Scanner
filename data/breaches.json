@@ -1,0 +1,29 @@
+[
+    {
+        "email": "test@gmail.com",
+        "breach": "LinkedIn",
+        "year": 2021,
+        "data_exposed": [
+            "Email",
+            "Password"
+        ]
+    },
+    {
+        "email": "admin@yahoo.com",
+        "breach": "Dropbox",
+        "year": 2019,
+        "data_exposed": [
+            "Email",
+            "Phone Number"
+        ]
+    },
+    {
+        "email": "john@example.com",
+        "breach": "Adobe",
+        "year": 2018,
+        "data_exposed": [
+            "Email",
+            "Password Hint"
+        ]
+    }
+]
